@@ -1,0 +1,37 @@
+.bigContainer {
+background-color: rgb(141, 141, 223);
+height: 900px;
+width: 900px;
+padding-top: 50px;
+;
+}
+
+img.octocat {
+    height: 200px;
+}
+
+.firstRow {
+height: 240px;
+width: 850px;
+background-color: rgb(228, 135, 135);
+margin-left: 25px;
+margin-top: 25px;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+}
+
+.secondRow {
+    height: 240px;
+    width: 850px;
+    background-color:white;
+    margin-left: 25px;
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    }
+    
+    
+
+
